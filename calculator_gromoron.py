@@ -1,4 +1,3 @@
-
 # Something very nasty is yet to come there...
 
 
@@ -17,8 +16,8 @@ def substract(a, b):
     return a - b
 
 
-def multiply(num1, num2):
-    return num1 * num2
+def multiply(a, b):
+    return a * b
 
 
 def divide(a, b):
@@ -45,7 +44,3 @@ def main_function():
         print("Вы мне втерли какую то дичь, что такое", operator, "?")
         return
     print(result)
-
-
-def add(a, b):
-    return a + b
