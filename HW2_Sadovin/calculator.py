@@ -1,4 +1,6 @@
 
+def multiply(a, b):
+    return a * b
 
 def main_function():
     input_data = input("введите выражение")
