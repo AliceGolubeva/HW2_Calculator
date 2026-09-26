@@ -1,3 +1,4 @@
+
 # Something very nasty is yet to come there...
 
 
@@ -16,8 +17,8 @@ def substract(a, b):
     return a - b
 
 
-def multiply(a, b):
-    return a * b
+def multiply(num1, num2):
+    return num1 * num2
 
 
 def divide(a, b):
@@ -48,6 +49,3 @@ def main_function():
 
 def add(a, b):
     return a + b
-
-
-
