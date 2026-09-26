@@ -1,27 +1,3 @@
-# Something very nasty is yet to come there...
-
-
-def to_number(value):
-    try:
-        return int(value)
-    except ValueError:
-        return float(value)
-
-
-def add(a, b):
-    return a + b
-
-
-def substract(a, b):
-    return a - b
-
-
-def multiply(a, b):
-    return a * b
-
-
-def divide(a, b):
-    return a / b
 
 
 def main_function():
@@ -44,10 +20,6 @@ def main_function():
         print("Вы мне втерли какую то дичь, что такое", operator, "?")
         return
     print(result)
-
-
-def add(a, b):
-    return a + b
 
 
 
